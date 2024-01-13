@@ -4,6 +4,9 @@
   "description": "A powerful library for interacting with the blackbox.io API",
   "main": "index.js",
   "types": "./lib/blackbox.d.ts",
+  "scripts": {
+    "question": "node examples/question.js"
+  },
   "author": {
     "name": "RizzFuzz",
     "url": "https://github.com/rizzlogy"
