@@ -1,5 +1,5 @@
 {
-  "name": "blackbox",
+  "name": "blackbox-ai",
   "version": "1.0.0",
   "description": "A powerful library for interacting with the blackbox.io API",
   "main": "index.js",
