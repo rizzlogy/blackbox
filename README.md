@@ -20,7 +20,7 @@
   </a>
 </p>
 
-# Bardie Installation
+# Blackbox Installation
 
 **📂 Normal Installation**
 
