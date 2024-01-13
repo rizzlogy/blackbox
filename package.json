@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "./lib/blackbox.d.ts",
   "scripts": {
-    "question": "node examples/question.js"
+    "question": "node example/question.js"
   },
   "author": {
     "name": "RizzFuzz",
