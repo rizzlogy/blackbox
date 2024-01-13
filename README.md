@@ -52,7 +52,7 @@ askQuestion();
 
 ##### Response:
 
-```json
+```bash
 {
   content: 'In machine learning, a black box model is a model that produces output without providing any insight into how it reached that output. This is in contrast to a white box model, which provides a clear and understandable explanation of how it arrived at its output.\n' +
     '\n' +
