@@ -1,0 +1,34 @@
+{
+  "name": "blackbox",
+  "version": "1.0.0",
+  "description": "A powerful library for interacting with the blackbox.io API",
+  "main": "index.js",
+  "types": "./lib/blackbox.d.ts",
+  "author": {
+    "name": "RizzFuzz",
+    "url": "https://github.com/rizzlogy"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "chatbot",
+    "bot",
+    "robot",
+    "axios",
+    "completions",
+    "blackbox",
+    "chatgpt",
+    "blackbox.rizzy.eu.org"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizzlogy/blackbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rizzlogy/blackbox"
+  },
+  "homepage": "https://blackbox.rizzy.eu.org/",
+  "dependencies": {
+    "axios": "^1.3.4",
+  }
+}
