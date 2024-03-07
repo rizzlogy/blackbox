@@ -35,8 +35,8 @@ npm i blackbox-ai
 #
 
 ```js
-const Blackbox = require("blackbox-ai");
-const nigg = new Blackbox();
+const { blackbox } = require("blackbox-ai");
+const nigg = new blackbox();
 
 async function askQuestion() {
   try {
